@@ -1,0 +1,10 @@
+node_modules
+.env
+
+api/node_modules
+api/screenshots
+api/.env
+
+client/node_modules
+client/build
+client/.env
