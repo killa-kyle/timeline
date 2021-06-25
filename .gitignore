@@ -1,10 +1,11 @@
 node_modules
 .env
 
-api/node_modules
-api/screenshots
-api/.env
+screenshots
 
-client/node_modules
-client/build
-client/.env
+
+frontend/node_modules
+frontend/build
+frontend/.env
+
+___DEPRECATED___
